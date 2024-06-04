@@ -1,0 +1,14 @@
+pip install IPython
+pip install scipy
+pip install numpy
+pip install jsonlib
+pip install plotly
+pip install opencv-python
+pip install tensorflow
+pip install keras
+pip install Pillow
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install tqdm
+pip install Django
